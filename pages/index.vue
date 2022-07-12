@@ -2,7 +2,8 @@
   <section class="container">
       <p>{{ message }}</p>
 
-      <router-link to="/price">Price Page</router-link>
+      <router-link to="/users/">Users Index</router-link>
+      <router-link to="/users/other">Users Other</router-link>
   </section>
 </template>
 
