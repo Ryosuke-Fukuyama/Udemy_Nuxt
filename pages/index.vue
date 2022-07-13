@@ -15,3 +15,9 @@ export default {
   })
 }
 </script>
+
+<style>
+  p {
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+  }
+</style>
